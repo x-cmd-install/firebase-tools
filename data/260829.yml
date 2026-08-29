@@ -1,0 +1,67 @@
+about:
+  description: The Firebase Command Line Tools
+  license: MIT
+  homepage: 
+  head: be0000e
+  archived: false
+  latestVersion: v15.28.2
+  collectedAt: 2026-08-29T07:24:27Z
+timeline:
+  created: 2013-12-23
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-28
+popularity:
+  star: 4463
+  watcher: 207
+  fork: 1243
+  release: 507
+  contributor: 410
+  pullRequest: 1502
+  issue: 4516
+language:
+  TypeScript: 10069709
+  JavaScript: 125472
+  HTML: 37823
+  Shell: 23383
+  SCSS: 10160
+  Dart: 5356
+  CSS: 2840
+  Dockerfile: 2536
+  Swift: 1047
+  Python: 884
+  Kotlin: 837
+  Ruby: 98
+totalLine: 10280145
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 11
+    mergedPR: 64
+    openPR: 32
+    closedIssue: 10
+    openIssue: 9
+    commit: 86
+  last90d:
+    since: 2026-05-31
+    release: 22
+    mergedPR: 198
+    openPR: 100
+    closedIssue: 53
+    openIssue: 27
+    commit: 237
+  last180d:
+    since: 2026-03-02
+    release: 35
+    mergedPR: 452
+    openPR: 195
+    closedIssue: 138
+    openIssue: 48
+    commit: 524
+  last360d:
+    since: 2025-09-03
+    release: 64
+    mergedPR: 870
+    openPR: 302
+    closedIssue: 335
+    openIssue: 81
+    commit: 927
