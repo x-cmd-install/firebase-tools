@@ -5,19 +5,19 @@ about:
   head: ecda4df
   archived: false
   latestVersion: "v15.29.0"
-  collectedAt: 2026-09-07T04:21:57Z
+  collectedAt: 2026-09-07T20:03:47Z
 timeline:
   created: 2013-12-23
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 4463
+  star: 4464
   watcher: 207
-  fork: 1248
+  fork: 1249
   release: 508
   contributor: 412
-  pullRequest: 6350
-  issue: 4526
+  pullRequest: 6352
+  issue: 4528
 language:
   TypeScript: 10199642
   JavaScript: 124913
@@ -34,60 +34,60 @@ recent:
     since: 2026-08-08
     release: 8
     mergedPR: 79
-    openPR: 26
+    openPR: 28
     closedIssue: 11
-    openIssue: 13
+    openIssue: 15
     commit: 83
   last60d:
     since: 2026-07-09
     release: 15
     mergedPR: 131
-    openPR: 59
+    openPR: 61
     closedIssue: 26
-    openIssue: 20
+    openIssue: 22
     commit: 152
   last90d:
     since: 2026-06-09
     release: 22
     mergedPR: 210
-    openPR: 98
+    openPR: 100
     closedIssue: 53
-    openIssue: 32
+    openIssue: 34
     commit: 231
   last180d:
     since: 2026-03-11
     release: 34
     mergedPR: 442
-    openPR: 188
+    openPR: 190
     closedIssue: 136
-    openIssue: 54
+    openIssue: 56
     commit: 479
   last360d:
     since: 2025-09-12
     release: 63
     mergedPR: 876
-    openPR: 300
+    openPR: 302
     closedIssue: 329
-    openIssue: 86
+    openIssue: 88
     commit: 925
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 1599
-    openPR: 385
+    openPR: 387
     closedIssue: 697
-    openIssue: 173
+    openIssue: 175
     commit: 1749
 total:
   release: 508
   mergedPR: 4842
-  openPR: 524
+  openPR: 526
   closedIssue: 4051
-  openIssue: 475
+  openIssue: 477
   commit: 6748
 ---
 path: /home/runner/.x-repo/github.com/firebase/firebase-tools
-collectedAt: 2026-09-07T04:22:11Z
+collectedAt: 2026-09-07T20:03:59Z
 loc:
   TypeScript:
     code: 245396
@@ -317,7 +317,7 @@ checks:
       - 'Warn: 23 commits out of 26 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:22:12+00:00
+  collectedAt: 2026-09-07T20:03:59+00:00
   platform:
     darwin/arm64:
       name:  firebase-tools-macos
