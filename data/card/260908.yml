@@ -5,7 +5,7 @@ about:
   head: ecda4df
   archived: false
   latestVersion: "v15.29.0"
-  collectedAt: 2026-09-08T01:46:34Z
+  collectedAt: 2026-09-08T04:22:10Z
 timeline:
   created: 2013-12-23
   lastCommit: 2026-09-04
@@ -87,7 +87,7 @@ total:
   commit: 6748
 ---
 path: /home/runner/.x-repo/github.com/firebase/firebase-tools
-collectedAt: 2026-09-08T01:46:46Z
+collectedAt: 2026-09-08T04:22:23Z
 loc:
   TypeScript:
     code: 245396
