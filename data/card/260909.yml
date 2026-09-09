@@ -7,7 +7,7 @@ about:
   latestVersion: "v15.29.0"
   latestRelease: "v15.29.0"
   latestPrerelease: "v15.26.0-sea.preview.5"
-  collectedAt: 2026-09-09T04:27:55Z
+  collectedAt: 2026-09-09T18:31:24Z
 timeline:
   created: 2013-12-23
   lastCommit: 2026-09-09
@@ -20,7 +20,7 @@ popularity:
   fork: 1248
   release: 508
   contributor: 412
-  pullRequest: 6357
+  pullRequest: 6361
   issue: 4530
 language:
   TypeScript: 10223212
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-10
     release: 8
     mergedPR: 82
-    openPR: 25
+    openPR: 29
     closedIssue: 12
     openIssue: 13
     commit: 89
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-11
     release: 14
     mergedPR: 136
-    openPR: 58
+    openPR: 62
     closedIssue: 27
     openIssue: 22
     commit: 158
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-11
     release: 22
     mergedPR: 204
-    openPR: 96
+    openPR: 100
     closedIssue: 53
     openIssue: 33
     commit: 237
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-13
     release: 33
     mergedPR: 432
-    openPR: 186
+    openPR: 190
     closedIssue: 135
     openIssue: 56
     commit: 485
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-14
     release: 63
     mergedPR: 881
-    openPR: 301
+    openPR: 305
     closedIssue: 329
     openIssue: 87
     commit: 931
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-19
     release: 100
     mergedPR: 1595
-    openPR: 385
+    openPR: 389
     closedIssue: 699
     openIssue: 173
     commit: 1745
 total:
   release: 508
   mergedPR: 4848
-  openPR: 525
+  openPR: 529
   closedIssue: 4053
   openIssue: 477
   commit: 6754
 ---
 path: /home/runner/.x-repo/github.com/firebase/firebase-tools
-collectedAt: 2026-09-09T04:28:18Z
+collectedAt: 2026-09-09T18:31:36Z
 loc:
   TypeScript:
     code: 245899
