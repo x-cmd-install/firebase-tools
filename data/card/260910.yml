@@ -7,7 +7,7 @@ about:
   latestVersion: "v15.30.0"
   latestRelease: "v15.30.0"
   latestPrerelease: "v15.26.0-sea.preview.5"
-  collectedAt: 2026-09-10T04:25:21Z
+  collectedAt: 2026-09-10T15:57:56Z
 timeline:
   created: 2013-12-23
   lastCommit: 2026-09-10
@@ -20,8 +20,8 @@ popularity:
   fork: 1248
   release: 509
   contributor: 412
-  pullRequest: 6363
-  issue: 4531
+  pullRequest: 6364
+  issue: 4535
 language:
   TypeScript: 10225583
   JavaScript: 124913
@@ -38,60 +38,60 @@ recent:
     since: 2026-08-11
     release: 9
     mergedPR: 79
-    openPR: 27
-    closedIssue: 12
-    openIssue: 14
+    openPR: 28
+    closedIssue: 14
+    openIssue: 16
     commit: 93
   last60d:
     since: 2026-07-12
     release: 15
     mergedPR: 138
-    openPR: 61
-    closedIssue: 27
-    openIssue: 23
+    openPR: 62
+    closedIssue: 29
+    openIssue: 25
     commit: 162
   last90d:
     since: 2026-06-12
     release: 22
     mergedPR: 203
-    openPR: 94
-    closedIssue: 53
-    openIssue: 34
+    openPR: 95
+    closedIssue: 55
+    openIssue: 36
     commit: 241
   last180d:
     since: 2026-03-14
     release: 34
     mergedPR: 431
-    openPR: 189
-    closedIssue: 135
-    openIssue: 57
+    openPR: 190
+    closedIssue: 137
+    openIssue: 59
     commit: 489
   last360d:
     since: 2025-09-15
     release: 64
     mergedPR: 880
-    openPR: 304
-    closedIssue: 329
-    openIssue: 88
+    openPR: 305
+    closedIssue: 331
+    openIssue: 90
     commit: 935
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 1584
-    openPR: 388
-    closedIssue: 699
-    openIssue: 174
+    openPR: 389
+    closedIssue: 701
+    openIssue: 176
     commit: 1745
 total:
   release: 509
   mergedPR: 4850
-  openPR: 528
-  closedIssue: 4053
-  openIssue: 478
+  openPR: 529
+  closedIssue: 4055
+  openIssue: 480
   commit: 6758
 ---
 path: /home/runner/.x-repo/github.com/firebase/firebase-tools
-collectedAt: 2026-09-10T04:25:40Z
+collectedAt: 2026-09-10T15:58:09Z
 loc:
   TypeScript:
     code: 245989
