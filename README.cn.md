@@ -4,7 +4,7 @@
 
 The Firebase Command Line Tools
 
-![firebase-tools](https://repo.x-cmd.io/firebase-tools.svg)
+![firebase-tools](https://repo.x-cmd.io/firebase-tools.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,31 @@ x install firebase-tools
 - **最新版本**: `v15.30.0` (2026-09-09)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-09-09T22:34:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-instant-win.exe) | 247.2 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-linux) | 258.8 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-macos) | 261.1 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-win.exe) | 247.2 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 4,465 · **Fork**: 1,248 · **开放 issue**: 4,531 · **贡献者**: 412
+- **Star**: 4,465 · **Fork**: 1,248 · **开放 issue**: 4,535 · **贡献者**: 412
 
 ## 累计统计
 
-- **发布数**: 509 · **已合并 PR**: 4850 · **开放 PR**: 528 · **已关闭 issue**: 4053 · **开放 issue**: 478 · **提交数**: 6758
+- **发布数**: 509 · **已合并 PR**: 4850 · **开放 PR**: 529 · **已关闭 issue**: 4055 · **开放 issue**: 480 · **提交数**: 6758
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 79 | 27 | 12 | 14 | 93 |
-| 90d | 2026-06-12 | 22 | 203 | 94 | 53 | 34 | 241 |
-| 360d | 2025-09-15 | 64 | 880 | 304 | 329 | 88 | 935 |
+| 30d | 2026-08-11 | 9 | 79 | 28 | 14 | 16 | 93 |
+| 90d | 2026-06-12 | 22 | 203 | 95 | 55 | 36 | 241 |
+| 360d | 2025-09-15 | 64 | 880 | 305 | 331 | 90 | 935 |
 
 ## 代码规模
 
@@ -71,4 +79,4 @@ firebase-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:26:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:58:39Z._

@@ -22,23 +22,31 @@ x install firebase-tools
 - **Latest**: `v15.30.0` (2026-09-09)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 4
-- **Published**: 2026-09-09T22:34:35Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-instant-win.exe) | 247.2 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-linux) | 258.8 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-macos) | 261.1 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-win.exe) | 247.2 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 4,465 · **Forks**: 1,248 · **Open issues**: 4,531 · **Contributors**: 412
+- **Stars**: 4,465 · **Forks**: 1,248 · **Open issues**: 4,535 · **Contributors**: 412
 
 ## Totals (cumulative)
 
-- **Releases**: 509 · **Merged PRs**: 4850 · **Open PRs**: 528 · **Closed issues**: 4053 · **Open issues**: 478 · **Commits**: 6758
+- **Releases**: 509 · **Merged PRs**: 4850 · **Open PRs**: 529 · **Closed issues**: 4055 · **Open issues**: 480 · **Commits**: 6758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 79 | 27 | 12 | 14 | 93 |
-| 90d | 2026-06-12 | 22 | 203 | 94 | 53 | 34 | 241 |
-| 360d | 2025-09-15 | 64 | 880 | 304 | 329 | 88 | 935 |
+| 30d | 2026-08-11 | 9 | 79 | 28 | 14 | 16 | 93 |
+| 90d | 2026-06-12 | 22 | 203 | 95 | 55 | 36 | 241 |
+| 360d | 2025-09-15 | 64 | 880 | 305 | 331 | 90 | 935 |
 
 ## Code size
 
@@ -67,8 +75,8 @@ Lowest-scoring checks:
 Install metadata for firebase-tools lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `firebase-tools` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/firebase-tools.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/firebase-tools.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:58:39Z._
