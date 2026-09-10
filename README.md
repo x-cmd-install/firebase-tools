@@ -14,11 +14,11 @@ x install firebase-tools
 
 ## Code insight
 
-Total: **377,359** lines of code across **1722** files in the top 5 languages.
+Total: **377,486** lines of code across **1722** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 246,464 | 20,738 | 28,379 | 1480 |
+| TypeScript | 246,591 | 20,738 | 28,397 | 1480 |
 | Json | 124,028 | 0 | 6 | 142 |
 | JavaScript | 2,331 | 809 | 360 | 43 |
 | Tsx | 1,757 | 32 | 120 | 28 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 509 · **Merged PRs**: 4852 · **Open PRs**: 529 · **Closed issues**: 4055 · **Open issues**: 480 · **Commits**: 6760
+- **Releases**: 509 · **Merged PRs**: 4853 · **Open PRs**: 531 · **Closed issues**: 4055 · **Open issues**: 480 · **Commits**: 6761
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 81 | 28 | 14 | 16 | 95 |
-| last60d | 2026-07-12 | 15 | 140 | 62 | 29 | 25 | 164 |
-| 90d | 2026-06-12 | 22 | 205 | 95 | 55 | 36 | 243 |
-| last180d | 2026-03-14 | 34 | 433 | 190 | 137 | 59 | 491 |
-| 360d | 2025-09-15 | 64 | 882 | 305 | 331 | 90 | 937 |
-| last720d | 2024-09-20 | 100 | 1586 | 389 | 701 | 176 | 1747 |
+| 30d | 2026-08-11 | 9 | 82 | 30 | 14 | 16 | 96 |
+| last60d | 2026-07-12 | 15 | 141 | 64 | 29 | 25 | 165 |
+| 90d | 2026-06-12 | 22 | 206 | 97 | 55 | 36 | 244 |
+| last180d | 2026-03-14 | 34 | 434 | 192 | 137 | 59 | 492 |
+| 360d | 2025-09-15 | 64 | 883 | 307 | 331 | 90 | 938 |
+| last720d | 2024-09-20 | 100 | 1587 | 391 | 701 | 176 | 1748 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:29Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:45:57Z._
