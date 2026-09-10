@@ -2,12 +2,12 @@ about:
   description: "The Firebase Command Line Tools"
   license: MIT
   homepage: 
-  head: 7176a18
+  head: f06b51e
   archived: false
   latestVersion: "v15.30.0"
   latestRelease: "v15.30.0"
   latestPrerelease: "v15.26.0-sea.preview.5"
-  collectedAt: 2026-09-10T15:57:56Z
+  collectedAt: 2026-09-10T20:09:36Z
 timeline:
   created: 2013-12-23
   lastCommit: 2026-09-10
@@ -20,10 +20,10 @@ popularity:
   fork: 1248
   release: 509
   contributor: 412
-  pullRequest: 6364
+  pullRequest: 6366
   issue: 4535
 language:
-  TypeScript: 10225583
+  TypeScript: 10242573
   JavaScript: 124913
   HTML: 37823
   Shell: 23383
@@ -32,71 +32,71 @@ language:
   CSS: 2352
   Python: 884
   Dart: 589
-totalBytes: 10428223
+totalBytes: 10445213
 recent:
   last30d:
     since: 2026-08-11
     release: 9
-    mergedPR: 79
+    mergedPR: 81
     openPR: 28
     closedIssue: 14
     openIssue: 16
-    commit: 93
+    commit: 95
   last60d:
     since: 2026-07-12
     release: 15
-    mergedPR: 138
+    mergedPR: 140
     openPR: 62
     closedIssue: 29
     openIssue: 25
-    commit: 162
+    commit: 164
   last90d:
     since: 2026-06-12
     release: 22
-    mergedPR: 203
+    mergedPR: 205
     openPR: 95
     closedIssue: 55
     openIssue: 36
-    commit: 241
+    commit: 243
   last180d:
     since: 2026-03-14
     release: 34
-    mergedPR: 431
+    mergedPR: 433
     openPR: 190
     closedIssue: 137
     openIssue: 59
-    commit: 489
+    commit: 491
   last360d:
     since: 2025-09-15
     release: 64
-    mergedPR: 880
+    mergedPR: 882
     openPR: 305
     closedIssue: 331
     openIssue: 90
-    commit: 935
+    commit: 937
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 1584
+    mergedPR: 1586
     openPR: 389
     closedIssue: 701
     openIssue: 176
-    commit: 1745
+    commit: 1747
 total:
   release: 509
-  mergedPR: 4850
+  mergedPR: 4852
   openPR: 529
   closedIssue: 4055
   openIssue: 480
-  commit: 6758
+  commit: 6760
 ---
 path: /home/runner/.x-repo/github.com/firebase/firebase-tools
-collectedAt: 2026-09-10T15:58:09Z
+collectedAt: 2026-09-10T20:09:51Z
 loc:
   TypeScript:
-    code: 245989
-    comments: 20728
-    blanks: 28337
+    code: 246464
+    comments: 20738
+    blanks: 28379
     files: 1480
   Json:
     code: 124028
@@ -179,9 +179,9 @@ loc:
     blanks: 191
     files: 19
 total:
-  code: 378052
-  comments: 24926
-  blanks: 30543
+  code: 378527
+  comments: 24936
+  blanks: 30585
   files: 1874
 ---
 date: "2026-09-07"

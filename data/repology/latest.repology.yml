@@ -1,0 +1,125 @@
+- repo: aur
+  srcname: firebase-tools
+  binname: firebase-tools
+  visiblename: firebase-tools
+  version: 15.28.1
+  origversion: 15.28.1-1
+  status: outdated
+  summary: The Firebase Command Line Tools
+  maintainers:
+    - 0x9fff00@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: firebase-tools-bin
+  binname: firebase-tools-bin
+  visiblename: firebase-tools-bin
+  version: 15.28.1
+  origversion: 15.28.1-1
+  status: outdated
+  summary: The Firebase Command Line Tools (bundled official standalone binary)
+  maintainers:
+    - attakei@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: firebase-cli
+  visiblename: firebase-cli
+  version: 15.29.0
+  origversion: null
+  status: outdated
+  summary: Firebase command-line tools
+- repo: nix_stable_24_05
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 13.10.0
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 13.20.2
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - me@momee.mt
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 14.3.0
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - me@momee.mt
+    - seclark@nextquestion.net
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 14.26.0
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - me@momee.mt
+    - seclark@nextquestion.net
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 15.18.0
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - me@momee.mt
+    - seclark@nextquestion.net
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 15.28.2
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - seclark@nextquestion.net
+  licenses:
+    - MIT
+- repo: openmamba
+  subrepo: base
+  srcname: firebase-tools
+  binnames:
+    - firebase-tools
+  visiblename: firebase-tools
+  version: 15.30.0
+  origversion: 15.30.0-1mamba
+  status: newest
+  summary: Command-Line Interface for Firebase
+  maintainers:
+    - claude@openmamba.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
+- repo: scoop
+  subrepo: main
+  binname: firebase
+  visiblename: firebase
+  version: 15.30.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
