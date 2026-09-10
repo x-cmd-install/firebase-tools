@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/firebase/firebase-tools/releases/381596854",
-  "assets_url": "https://api.github.com/repos/firebase/firebase-tools/releases/381596854/assets",
-  "upload_url": "https://uploads.github.com/repos/firebase/firebase-tools/releases/381596854/assets{?name,label}",
-  "html_url": "https://github.com/firebase/firebase-tools/releases/tag/v15.29.0",
-  "id": 381596854,
+  "url": "https://api.github.com/repos/firebase/firebase-tools/releases/385880161",
+  "assets_url": "https://api.github.com/repos/firebase/firebase-tools/releases/385880161/assets",
+  "upload_url": "https://uploads.github.com/repos/firebase/firebase-tools/releases/385880161/assets{?name,label}",
+  "html_url": "https://github.com/firebase/firebase-tools/releases/tag/v15.30.0",
+  "id": 385880161,
   "author": {
     "login": "google-oss-bot",
     "id": 26440463,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAOsFPM4WvrS2",
-  "tag_name": "v15.29.0",
+  "node_id": "RE_kwDOAOsFPM4XABBh",
+  "tag_name": "v15.30.0",
   "target_commitish": "main",
-  "name": "v15.29.0",
+  "name": "v15.30.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-09-02T21:52:13Z",
-  "updated_at": "2026-09-02T22:20:22Z",
-  "published_at": "2026-09-02T22:20:22Z",
+  "created_at": "2026-09-09T22:13:07Z",
+  "updated_at": "2026-09-09T22:34:35Z",
+  "published_at": "2026-09-09T22:34:35Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/541817913",
-      "id": 541817913,
-      "node_id": "RA_kwDOAOsFPM4gS3w5",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/553691787",
+      "id": 553691787,
+      "node_id": "RA_kwDOAOsFPM4hAKqL",
       "name": "firebase-tools-instant-win.exe",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 239145267,
-      "digest": "sha256:d76bd64aa5939cab4ab7322a978c48dd26b7dfab98e0714506a488147ce5c642",
-      "download_count": 3246,
-      "created_at": "2026-09-02T22:02:06Z",
-      "updated_at": "2026-09-02T22:02:12Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.29.0/firebase-tools-instant-win.exe"
+      "size": 259173118,
+      "digest": "sha256:014e424ff294c6d5a821424ea71042c1cf92b612cb04ee61debee9c2a6083078",
+      "download_count": 73,
+      "created_at": "2026-09-09T22:23:43Z",
+      "updated_at": "2026-09-09T22:23:53Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-instant-win.exe"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/541818057",
-      "id": 541818057,
-      "node_id": "RA_kwDOAOsFPM4gS3zJ",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/553692121",
+      "id": 553692121,
+      "node_id": "RA_kwDOAOsFPM4hAKvZ",
       "name": "firebase-tools-linux",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 251346057,
-      "digest": "sha256:ef0998b3c1eeedf2a7b02b23bbe2b98a84a855855ea73d85d4498af432531ded",
-      "download_count": 38333,
-      "created_at": "2026-09-02T22:02:18Z",
-      "updated_at": "2026-09-02T22:02:25Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.29.0/firebase-tools-linux"
+      "size": 271368677,
+      "digest": "sha256:47c73e6ba7146148e40a49b326bf919891a230e3c05c865c81234d9c48751f85",
+      "download_count": 1018,
+      "created_at": "2026-09-09T22:23:59Z",
+      "updated_at": "2026-09-09T22:24:10Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-linux"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/541818248",
-      "id": 541818248,
-      "node_id": "RA_kwDOAOsFPM4gS32I",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/553692542",
+      "id": 553692542,
+      "node_id": "RA_kwDOAOsFPM4hAK1-",
       "name": "firebase-tools-macos",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 253794545,
-      "digest": "sha256:eeed92a65a9db72611c4dfa7734c3739f915530247d3902cc2269def91fdb687",
-      "download_count": 6602,
-      "created_at": "2026-09-02T22:02:32Z",
-      "updated_at": "2026-09-02T22:02:38Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.29.0/firebase-tools-macos"
+      "size": 273817165,
+      "digest": "sha256:4b50f3e228c688e113d3508986d90100197edc40ca6748bdc4c11b0ad5fdce7e",
+      "download_count": 159,
+      "created_at": "2026-09-09T22:24:15Z",
+      "updated_at": "2026-09-09T22:24:26Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-macos"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/541818350",
-      "id": 541818350,
-      "node_id": "RA_kwDOAOsFPM4gS33u",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/553692944",
+      "id": 553692944,
+      "node_id": "RA_kwDOAOsFPM4hAK8Q",
       "name": "firebase-tools-win.exe",
       "label": "",
       "uploader": {
@@ -173,15 +173,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 239145290,
-      "digest": "sha256:5b0e5841c9170c2db8557651ba5e86be2fdb4dfc49cf57da0de6c8134a4ef253",
-      "download_count": 384,
-      "created_at": "2026-09-02T22:02:43Z",
-      "updated_at": "2026-09-02T22:02:49Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.29.0/firebase-tools-win.exe"
+      "size": 259173061,
+      "digest": "sha256:7979baa37776cbeb0c23daccb4f6cad284aa41f13b07ea2287b6ed7df388cabc",
+      "download_count": 36,
+      "created_at": "2026-09-09T22:24:31Z",
+      "updated_at": "2026-09-09T22:24:42Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-win.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/firebase/firebase-tools/tarball/v15.29.0",
-  "zipball_url": "https://api.github.com/repos/firebase/firebase-tools/zipball/v15.29.0",
-  "body": "- Added support for the `FIREBASE_DEBUG_PATH` environment variable to customize the debug log output location.\r\n- Add `humanReadableDescription` field to MCP tools and use it in `--generate-tool-list` output.\r\n- Fixed an issue where the Functions emulator replaced an IPC failure with an unrelated `TypeError` about stream chunk types, hiding why the runtime became unreachable (#10876).\r\n- [Added] Add -f, --force option to `firebase ext:migrate`.\r\n- [Fixed] Fix parameter type preservation and optional system parameter handling during extension updates in `firebase ext:migrate`"
+  "tarball_url": "https://api.github.com/repos/firebase/firebase-tools/tarball/v15.30.0",
+  "zipball_url": "https://api.github.com/repos/firebase/firebase-tools/zipball/v15.30.0",
+  "body": "- Updated the Firebase SQL Connect local toolkit to v3.4.19, which includes the following changes:\r\n  - [fixed] Bug fixes and performance improvements for the PostgreSQL emulator.\r\n- [fixed] Clean up managed service accounts when all functions in a codebase are deleted.\r\n- Corrected Cloud Tasks emulator Queue ID validation error message to match Cloud Tasks naming rules.\r\n- Repurposed the local `dataconnect_execute` tool as `dataconnect_execute_in_emulator` to run GraphQL queries and mutations on the local SQL Connect emulator.\r\n- Configured the SQL Connect (Data Connect) OneMCP proxy server in `ONEMCP_SERVERS` with a selection of remote tools.\r\n- Configured the `Mcp-Param-Region` HTTP header workaround in `OneMcpServer` for MCP routing support.\r\n- [fixed] Retry IAM policy updates on replication lag and concurrency conflicts.\r\n- [fixed] Prevent deadlock and stale source tokens during Cloud Functions deployment retries.\r\n- [fixed] Retry Cloud Functions creation on HTTP 400 service account propagation errors."
 }
