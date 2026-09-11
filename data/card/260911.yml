@@ -2,12 +2,12 @@ about:
   description: "The Firebase Command Line Tools"
   license: MIT
   homepage: 
-  head: 474dbbb
+  head: c32b250
   archived: false
   latestVersion: "v15.30.0"
   latestRelease: "v15.30.0"
   latestPrerelease: "v15.26.0-sea.preview.5"
-  collectedAt: 2026-09-11T04:24:34Z
+  collectedAt: 2026-09-11T20:39:29Z
 timeline:
   created: 2013-12-23
   lastCommit: 2026-09-11
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-08-26
 popularity:
-  star: 4465
+  star: 4466
   watcher: 207
-  fork: 1249
+  fork: 1250
   release: 509
   contributor: 412
-  pullRequest: 6369
-  issue: 4535
+  pullRequest: 6371
+  issue: 4537
 language:
   TypeScript: 10251247
   JavaScript: 124913
@@ -37,61 +37,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 9
-    mergedPR: 78
+    mergedPR: 79
     openPR: 26
     closedIssue: 13
-    openIssue: 16
-    commit: 97
+    openIssue: 18
+    commit: 98
   last60d:
     since: 2026-07-13
     release: 15
-    mergedPR: 140
+    mergedPR: 141
     openPR: 63
     closedIssue: 29
-    openIssue: 25
-    commit: 166
+    openIssue: 27
+    commit: 167
   last90d:
     since: 2026-06-13
     release: 22
-    mergedPR: 207
+    mergedPR: 208
     openPR: 96
     closedIssue: 53
-    openIssue: 36
-    commit: 245
+    openIssue: 38
+    commit: 246
   last180d:
     since: 2026-03-15
     release: 34
-    mergedPR: 435
+    mergedPR: 436
     openPR: 190
     closedIssue: 137
-    openIssue: 59
-    commit: 493
+    openIssue: 61
+    commit: 494
   last360d:
     since: 2025-09-16
     release: 64
-    mergedPR: 882
+    mergedPR: 883
     openPR: 304
     closedIssue: 330
-    openIssue: 90
-    commit: 939
+    openIssue: 92
+    commit: 940
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 1584
+    mergedPR: 1585
     openPR: 389
     closedIssue: 701
-    openIssue: 176
-    commit: 1747
+    openIssue: 178
+    commit: 1748
 total:
   release: 509
-  mergedPR: 4854
+  mergedPR: 4855
   openPR: 530
   closedIssue: 4055
-  openIssue: 480
-  commit: 6762
+  openIssue: 482
+  commit: 6763
 ---
 path: /home/runner/.x-repo/github.com/firebase/firebase-tools
-collectedAt: 2026-09-11T04:24:47Z
+collectedAt: 2026-09-11T20:39:45Z
 loc:
   TypeScript:
     code: 246681
@@ -170,7 +170,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 2201
+    comments: 2202
     blanks: 989
     files: 48
   Text:
@@ -180,7 +180,7 @@ loc:
     files: 19
 total:
   code: 378744
-  comments: 24936
+  comments: 24937
   blanks: 30612
   files: 1874
 ---
