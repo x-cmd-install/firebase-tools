@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,467 · **Forks**: 1,252 · **Open issues**: 4,538 · **Contributors**: 412
+- **Stars**: 4,467 · **Forks**: 1,251 · **Open issues**: 4,538 · **Contributors**: 412
 
 ## Totals (cumulative)
 
-- **Releases**: 509 · **Merged PRs**: 4861 · **Open PRs**: 529 · **Closed issues**: 4056 · **Open issues**: 482 · **Commits**: 6769
+- **Releases**: 509 · **Merged PRs**: 4861 · **Open PRs**: 530 · **Closed issues**: 4056 · **Open issues**: 482 · **Commits**: 6769
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 7 | 80 | 23 | 12 | 18 | 73 |
-| last60d | 2026-07-15 | 15 | 144 | 60 | 28 | 27 | 160 |
-| 90d | 2026-06-15 | 22 | 207 | 85 | 52 | 37 | 228 |
-| last180d | 2026-03-17 | 33 | 427 | 186 | 137 | 61 | 478 |
-| 360d | 2025-09-18 | 63 | 885 | 302 | 327 | 92 | 930 |
-| last720d | 2024-09-23 | 100 | 1588 | 388 | 701 | 178 | 1753 |
+| 30d | 2026-08-15 | 6 | 78 | 24 | 11 | 18 | 73 |
+| last60d | 2026-07-16 | 14 | 139 | 60 | 28 | 27 | 160 |
+| 90d | 2026-06-16 | 22 | 205 | 85 | 52 | 37 | 228 |
+| last180d | 2026-03-18 | 33 | 423 | 187 | 137 | 61 | 478 |
+| 360d | 2025-09-19 | 63 | 885 | 303 | 325 | 92 | 930 |
+| last720d | 2024-09-24 | 100 | 1583 | 389 | 697 | 177 | 1747 |
 
 ## Release assets
 
@@ -73,15 +73,6 @@ Lowest-scoring checks:
 | [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-macos) | 261.1 MiB | `native/darwin/x64` |
 | [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.0/firebase-tools-win.exe) | 247.2 MiB | `other` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `15.30.0` | ✅ latest |
-| Nix unstable | `15.28.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for firebase-tools lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `firebase-tools` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +82,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:36:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:43:04Z._
