@@ -14,11 +14,11 @@ x install firebase-tools
 
 ## Code insight
 
-Total: **378,603** lines of code across **1722** files in the top 5 languages.
+Total: **378,885** lines of code across **1722** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 247,707 | 20,773 | 28,522 | 1480 |
+| TypeScript | 247,989 | 20,806 | 28,550 | 1480 |
 | Json | 124,029 | 0 | 6 | 142 |
 | JavaScript | 2,331 | 809 | 360 | 43 |
 | Tsx | 1,757 | 32 | 120 | 28 |
@@ -41,37 +41,37 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v15.30.1` (2026-09-14)
-- **Last commit**: 2026-09-16
+- **Latest**: `v15.30.2` (2026-09-17)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,469 · **Forks**: 1,253 · **Open issues**: 4,538 · **Contributors**: 412
+- **Stars**: 4,470 · **Forks**: 1,253 · **Open issues**: 4,540 · **Contributors**: 412
 
 ## Totals (cumulative)
 
-- **Releases**: 510 · **Merged PRs**: 4867 · **Open PRs**: 530 · **Closed issues**: 4056 · **Open issues**: 482 · **Commits**: 6777
+- **Releases**: 511 · **Merged PRs**: 4869 · **Open PRs**: 532 · **Closed issues**: 4058 · **Open issues**: 482 · **Commits**: 6781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 7 | 76 | 21 | 10 | 18 | 81 |
-| last60d | 2026-07-19 | 15 | 143 | 59 | 27 | 25 | 168 |
-| 90d | 2026-06-19 | 21 | 202 | 77 | 46 | 35 | 236 |
-| last180d | 2026-03-21 | 33 | 421 | 182 | 136 | 61 | 486 |
-| 360d | 2025-09-22 | 64 | 886 | 301 | 323 | 92 | 938 |
-| last720d | 2024-09-27 | 100 | 1562 | 388 | 693 | 175 | 1732 |
+| 30d | 2026-08-19 | 8 | 74 | 23 | 10 | 18 | 85 |
+| last60d | 2026-07-20 | 16 | 140 | 57 | 27 | 24 | 172 |
+| 90d | 2026-06-20 | 22 | 204 | 79 | 48 | 35 | 240 |
+| last180d | 2026-03-22 | 34 | 422 | 182 | 135 | 61 | 490 |
+| 360d | 2025-09-23 | 65 | 882 | 303 | 324 | 91 | 942 |
+| last720d | 2024-09-28 | 100 | 1562 | 390 | 695 | 175 | 1725 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.1/firebase-tools-instant-win.exe) | 247.0 MiB | `other` |
-| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.30.1/firebase-tools-linux) | 258.6 MiB | `other` |
-| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.30.1/firebase-tools-macos) | 261.0 MiB | `native/darwin/x64` |
-| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.1/firebase-tools-win.exe) | 247.0 MiB | `other` |
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.2/firebase-tools-instant-win.exe) | 247.1 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.30.2/firebase-tools-linux) | 258.7 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.30.2/firebase-tools-macos) | 261.1 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.30.2/firebase-tools-win.exe) | 247.1 MiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:43:25Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:29:06Z._
