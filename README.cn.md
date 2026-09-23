@@ -4,7 +4,7 @@
 
 The Firebase Command Line Tools
 
-[![x-cmd/install — firebase-tools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/firebase-tools.svg?lang=zh)](https://x-cmd.com/install/firebase-tools)
+[![x-cmd/install — firebase-tools Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/firebase-tools.svg?lang=zh)](https://x-cmd.com/install/firebase-tools)
 
 ## 安装
 
@@ -14,19 +14,19 @@ x install firebase-tools
 
 ## 代码洞察
 
-合计: **379,451** 行代码（覆盖前 5 种语言、共 **1723** 个文件）。
+合计: **380,262** 行代码（覆盖前 5 种语言、共 **1720** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 248,562 | 20,882 | 28,659 | 1481 |
+| TypeScript | 249,103 | 20,893 | 28,707 | 1481 |
 | Json | 124,022 | 0 | 6 | 142 |
-| JavaScript | 2,331 | 809 | 360 | 43 |
+| JavaScript | 2,367 | 816 | 365 | 43 |
 | Tsx | 1,757 | 32 | 120 | 28 |
-| Sh | 609 | 63 | 139 | 29 |
+| Yaml | 797 | 136 | 98 | 26 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.2 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
@@ -47,22 +47,22 @@ x install firebase-tools
 
 ## 流行度
 
-- **Star**: 4,474 · **Fork**: 1,258 · **开放 issue**: 4,545 · **贡献者**: 413
+- **Star**: 4,473 · **Fork**: 1,260 · **开放 issue**: 4,546 · **贡献者**: 414
 
 ## 累计统计
 
-- **发布数**: 511 · **已合并 PR**: 4875 · **开放 PR**: 551 · **已关闭 issue**: 4060 · **开放 issue**: 485 · **提交数**: 6787
+- **发布数**: 511 · **已合并 PR**: 4882 · **开放 PR**: 564 · **已关闭 issue**: 4061 · **开放 issue**: 485 · **提交数**: 6794
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 69 | 42 | 11 | 21 | 69 |
-| last60d | 2026-07-24 | 16 | 142 | 66 | 28 | 27 | 166 |
-| 90d | 2026-06-24 | 21 | 199 | 95 | 44 | 38 | 228 |
-| last180d | 2026-03-26 | 34 | 414 | 182 | 127 | 63 | 478 |
-| 360d | 2025-09-27 | 65 | 865 | 320 | 324 | 94 | 915 |
-| last720d | 2024-10-02 | 100 | 1560 | 409 | 695 | 176 | 1724 |
+| 30d | 2026-08-24 | 6 | 71 | 55 | 12 | 21 | 76 |
+| last60d | 2026-07-25 | 16 | 149 | 79 | 28 | 27 | 173 |
+| 90d | 2026-06-25 | 20 | 202 | 108 | 42 | 37 | 235 |
+| last180d | 2026-03-27 | 34 | 421 | 192 | 128 | 62 | 485 |
+| 360d | 2025-09-28 | 65 | 871 | 333 | 324 | 94 | 922 |
+| last720d | 2024-10-03 | 100 | 1563 | 422 | 696 | 176 | 1730 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ firebase-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:40:35Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:38:37Z._
