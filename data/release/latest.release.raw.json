@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 259847580,
       "digest": "sha256:31f327a5d5abae720734b6ed925dc8e778328a8f25f20ae59b482ba71909ca44",
-      "download_count": 169,
+      "download_count": 775,
       "created_at": "2026-09-28T19:38:58Z",
       "updated_at": "2026-09-28T19:39:14Z",
       "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.32.0/firebase-tools-instant-win.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 272040316,
       "digest": "sha256:7984dc1a85d39447d19ad0eb16ebc5d1cc680e0c94e7f6293a02a61423972ace",
-      "download_count": 1605,
+      "download_count": 6218,
       "created_at": "2026-09-28T19:39:20Z",
       "updated_at": "2026-09-28T19:39:31Z",
       "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.32.0/firebase-tools-linux"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 274488804,
       "digest": "sha256:efeed76f033f3390475c493e738536f639ba3cf7ee3c46c325856806fe728588",
-      "download_count": 335,
+      "download_count": 1947,
       "created_at": "2026-09-28T19:39:37Z",
       "updated_at": "2026-09-28T19:39:45Z",
       "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.32.0/firebase-tools-macos"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 259847595,
       "digest": "sha256:75575044323476575a3e770577f28a0d2e6ac5613a55e8967fd68a3488c03c33",
-      "download_count": 55,
+      "download_count": 170,
       "created_at": "2026-09-28T19:39:51Z",
       "updated_at": "2026-09-28T19:40:08Z",
       "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.32.0/firebase-tools-win.exe"
