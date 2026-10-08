@@ -14,11 +14,11 @@ x install firebase-tools
 
 ## 代码洞察
 
-合计: **383,665** 行代码（覆盖前 5 种语言、共 **1726** 个文件）。
+合计: **383,925** 行代码（覆盖前 5 种语言、共 **1726** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 253,057 | 21,045 | 29,223 | 1491 |
+| TypeScript | 253,317 | 21,053 | 29,261 | 1491 |
 | Json | 123,824 | 0 | 6 | 142 |
 | JavaScript | 1,969 | 795 | 323 | 39 |
 | Tsx | 1,757 | 32 | 120 | 28 |
@@ -41,37 +41,37 @@ x install firebase-tools
 
 ## 发布
 
-- **最新版本**: `v15.32.1` (2026-09-30)
-- **最近提交**: 2026-10-07
+- **最新版本**: `v15.33.0` (2026-10-08)
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 4,472 · **Fork**: 1,266 · **开放 issue**: 4,563 · **贡献者**: 417
+- **Star**: 4,471 · **Fork**: 1,265 · **开放 issue**: 4,563 · **贡献者**: 417
 
 ## 累计统计
 
-- **发布数**: 514 · **已合并 PR**: 4942 · **开放 PR**: 570 · **已关闭 issue**: 4075 · **开放 issue**: 488 · **提交数**: 6860
+- **发布数**: 515 · **已合并 PR**: 4945 · **开放 PR**: 568 · **已关闭 issue**: 4075 · **开放 issue**: 488 · **提交数**: 6865
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 6 | 88 | 59 | 10 | 24 | 0 |
-| last60d | 2026-08-08 | 14 | 175 | 77 | 27 | 33 | 0 |
-| 90d | 2026-07-09 | 21 | 229 | 108 | 44 | 38 | 0 |
-| last180d | 2026-04-10 | 34 | 435 | 191 | 123 | 65 | 0 |
-| 360d | 2025-10-12 | 65 | 866 | 335 | 323 | 98 | 0 |
-| last720d | 2024-10-17 | 100 | 1590 | 421 | 698 | 178 | 1750 |
+| 30d | 2026-09-08 | 7 | 88 | 58 | 8 | 24 | 104 |
+| last60d | 2026-08-09 | 15 | 177 | 76 | 27 | 31 | 206 |
+| 90d | 2026-07-10 | 22 | 231 | 106 | 43 | 38 | 275 |
+| last180d | 2026-04-11 | 35 | 438 | 190 | 121 | 65 | 514 |
+| 360d | 2025-10-13 | 66 | 868 | 334 | 321 | 98 | 938 |
+| last720d | 2024-10-18 | 100 | 1593 | 420 | 697 | 178 | 1753 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.32.1/firebase-tools-instant-win.exe) | 247.8 MiB | `other` |
-| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.32.1/firebase-tools-linux) | 259.5 MiB | `other` |
-| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.32.1/firebase-tools-macos) | 261.8 MiB | `native/darwin/x64` |
-| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.32.1/firebase-tools-win.exe) | 247.8 MiB | `other` |
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.33.0/firebase-tools-instant-win.exe) | 248.0 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.33.0/firebase-tools-linux) | 259.6 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.33.0/firebase-tools-macos) | 262.0 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.33.0/firebase-tools-win.exe) | 248.0 MiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ firebase-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T05:42:56Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T05:51:10Z._
