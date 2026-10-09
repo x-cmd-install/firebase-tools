@@ -14,11 +14,11 @@ x install firebase-tools
 
 ## Code insight
 
-Total: **383,925** lines of code across **1726** files in the top 5 languages.
+Total: **384,363** lines of code across **1731** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 253,317 | 21,053 | 29,261 | 1491 |
+| TypeScript | 253,755 | 21,090 | 29,323 | 1496 |
 | Json | 123,824 | 0 | 6 | 142 |
 | JavaScript | 1,969 | 795 | 323 | 39 |
 | Tsx | 1,757 | 32 | 120 | 28 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,471 · **Forks**: 1,265 · **Open issues**: 4,563 · **Contributors**: 417
+- **Stars**: 4,471 · **Forks**: 1,263 · **Open issues**: 4,564 · **Contributors**: 417
 
 ## Totals (cumulative)
 
-- **Releases**: 515 · **Merged PRs**: 4945 · **Open PRs**: 568 · **Closed issues**: 4075 · **Open issues**: 488 · **Commits**: 6865
+- **Releases**: 515 · **Merged PRs**: 4946 · **Open PRs**: 564 · **Closed issues**: 4076 · **Open issues**: 488 · **Commits**: 6866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 7 | 88 | 58 | 8 | 24 | 104 |
-| last60d | 2026-08-09 | 15 | 177 | 76 | 27 | 31 | 206 |
-| 90d | 2026-07-10 | 22 | 231 | 106 | 43 | 38 | 275 |
-| last180d | 2026-04-11 | 35 | 438 | 190 | 121 | 65 | 514 |
-| 360d | 2025-10-13 | 66 | 868 | 334 | 321 | 98 | 938 |
-| last720d | 2024-10-18 | 100 | 1593 | 420 | 697 | 178 | 1753 |
+| 30d | 2026-09-09 | 7 | 85 | 54 | 10 | 23 | 105 |
+| last60d | 2026-08-10 | 15 | 176 | 73 | 28 | 30 | 207 |
+| 90d | 2026-07-11 | 21 | 232 | 103 | 45 | 37 | 276 |
+| last180d | 2026-04-12 | 35 | 439 | 185 | 123 | 64 | 515 |
+| 360d | 2025-10-14 | 66 | 865 | 329 | 322 | 97 | 939 |
+| last720d | 2024-10-19 | 100 | 1594 | 416 | 698 | 177 | 1754 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:51:09Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:56:16Z._
