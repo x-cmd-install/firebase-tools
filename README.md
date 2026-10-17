@@ -14,11 +14,11 @@ x install firebase-tools
 
 ## Code insight
 
-Total: **387,412** lines of code across **1749** files in the top 5 languages.
+Total: **387,903** lines of code across **1749** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 257,030 | 21,376 | 29,743 | 1513 |
+| TypeScript | 257,521 | 21,433 | 29,808 | 1513 |
 | Json | 123,596 | 0 | 6 | 143 |
 | JavaScript | 1,969 | 795 | 323 | 39 |
 | Tsx | 1,757 | 32 | 120 | 28 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.34.0` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-17
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,474 · **Forks**: 1,268 · **Open issues**: 4,575 · **Contributors**: 417
+- **Stars**: 4,475 · **Forks**: 1,267 · **Open issues**: 4,576 · **Contributors**: 417
 
 ## Totals (cumulative)
 
-- **Releases**: 516 · **Merged PRs**: 4983 · **Open PRs**: 558 · **Closed issues**: 4084 · **Open issues**: 491 · **Commits**: 6906
+- **Releases**: 516 · **Merged PRs**: 4986 · **Open PRs**: 560 · **Closed issues**: 4086 · **Open issues**: 490 · **Commits**: 6909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 6 | 106 | 46 | 15 | 21 | 125 |
-| last60d | 2026-08-17 | 13 | 195 | 62 | 31 | 35 | 225 |
-| 90d | 2026-07-18 | 21 | 257 | 93 | 49 | 40 | 300 |
-| last180d | 2026-04-19 | 35 | 450 | 176 | 119 | 65 | 532 |
-| 360d | 2025-10-21 | 66 | 876 | 321 | 323 | 100 | 956 |
-| last720d | 2024-10-26 | 100 | 1620 | 409 | 696 | 178 | 1778 |
+| 30d | 2026-09-17 | 6 | 106 | 47 | 14 | 21 | 128 |
+| last60d | 2026-08-18 | 13 | 191 | 61 | 31 | 35 | 228 |
+| 90d | 2026-07-19 | 21 | 260 | 95 | 50 | 40 | 303 |
+| last180d | 2026-04-20 | 35 | 452 | 178 | 120 | 64 | 535 |
+| 360d | 2025-10-22 | 66 | 876 | 323 | 320 | 99 | 959 |
+| last720d | 2024-10-27 | 100 | 1623 | 411 | 697 | 177 | 1781 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:19:31Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:10:08Z._
