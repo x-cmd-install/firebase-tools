@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 516 · **Merged PRs**: 4986 · **Open PRs**: 560 · **Closed issues**: 4086 · **Open issues**: 490 · **Commits**: 6909
+- **Releases**: 516 · **Merged PRs**: 4986 · **Open PRs**: 562 · **Closed issues**: 4086 · **Open issues**: 490 · **Commits**: 6909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 6 | 106 | 47 | 14 | 21 | 128 |
-| last60d | 2026-08-18 | 13 | 191 | 61 | 31 | 35 | 228 |
-| 90d | 2026-07-19 | 21 | 260 | 95 | 50 | 40 | 303 |
-| last180d | 2026-04-20 | 35 | 452 | 178 | 120 | 64 | 535 |
-| 360d | 2025-10-22 | 66 | 876 | 323 | 320 | 99 | 959 |
-| last720d | 2024-10-27 | 100 | 1623 | 411 | 697 | 177 | 1781 |
+| 30d | 2026-09-18 | 5 | 88 | 47 | 13 | 21 | 128 |
+| last60d | 2026-08-19 | 13 | 187 | 63 | 29 | 35 | 228 |
+| 90d | 2026-07-20 | 21 | 255 | 93 | 48 | 39 | 303 |
+| last180d | 2026-04-21 | 35 | 448 | 179 | 116 | 63 | 535 |
+| 360d | 2025-10-23 | 65 | 870 | 324 | 318 | 98 | 959 |
+| last720d | 2024-10-28 | 100 | 1622 | 413 | 694 | 177 | 1781 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:10:08Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:17:48Z._
