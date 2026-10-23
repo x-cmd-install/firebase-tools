@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/firebase/firebase-tools/releases/413254622",
-  "assets_url": "https://api.github.com/repos/firebase/firebase-tools/releases/413254622/assets",
-  "upload_url": "https://uploads.github.com/repos/firebase/firebase-tools/releases/413254622/assets{?name,label}",
-  "html_url": "https://github.com/firebase/firebase-tools/releases/tag/v15.34.0",
-  "id": 413254622,
+  "url": "https://api.github.com/repos/firebase/firebase-tools/releases/420108997",
+  "assets_url": "https://api.github.com/repos/firebase/firebase-tools/releases/420108997/assets",
+  "upload_url": "https://uploads.github.com/repos/firebase/firebase-tools/releases/420108997/assets{?name,label}",
+  "html_url": "https://github.com/firebase/firebase-tools/releases/tag/v15.34.1",
+  "id": 420108997,
   "author": {
     "login": "google-oss-bot",
     "id": 26440463,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAOsFPM4YocPe",
-  "tag_name": "v15.34.0",
+  "node_id": "RE_kwDOAOsFPM4ZClrF",
+  "tag_name": "v15.34.1",
   "target_commitish": "main",
-  "name": "v15.34.0",
+  "name": "v15.34.1",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-14T22:56:43Z",
-  "updated_at": "2026-10-15T00:00:29Z",
-  "published_at": "2026-10-15T00:00:29Z",
+  "created_at": "2026-10-21T22:15:56Z",
+  "updated_at": "2026-10-22T14:51:32Z",
+  "published_at": "2026-10-22T14:51:32Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/641958358",
-      "id": 641958358,
-      "node_id": "RA_kwDOAOsFPM4mQ4HW",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663963659",
+      "id": 663963659,
+      "node_id": "RA_kwDOAOsFPM4nk0gL",
       "name": "firebase-tools-instant-win.exe",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 255145662,
-      "digest": "sha256:9e126841c15e7bd02d452d440a3c0401b44e675cf49a14c1577916657d6ecce5",
-      "download_count": 3246,
-      "created_at": "2026-10-14T23:05:25Z",
-      "updated_at": "2026-10-14T23:05:35Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.0/firebase-tools-instant-win.exe"
+      "size": 253273301,
+      "digest": "sha256:5d3caa3ed841d346c404619e73f4dc2e6bdd94150d3dfc5c0a2de99bf7f7c34a",
+      "download_count": 269,
+      "created_at": "2026-10-21T22:24:49Z",
+      "updated_at": "2026-10-21T22:24:59Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-instant-win.exe"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/641958953",
-      "id": 641958953,
-      "node_id": "RA_kwDOAOsFPM4mQ4Qp",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663964291",
+      "id": 663964291,
+      "node_id": "RA_kwDOAOsFPM4nk0qD",
       "name": "firebase-tools-linux",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 267344895,
-      "digest": "sha256:e6e271a8050b70f92725e4349faf9a586ff12e1d4b57deb751e86211a107f644",
-      "download_count": 10171,
-      "created_at": "2026-10-14T23:05:40Z",
-      "updated_at": "2026-10-14T23:05:52Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.0/firebase-tools-linux"
+      "size": 265475086,
+      "digest": "sha256:39150511323536d08fa8604c232db10da2b2421ce2c36f3913d5650a6fbe6e58",
+      "download_count": 816,
+      "created_at": "2026-10-21T22:25:05Z",
+      "updated_at": "2026-10-21T22:25:16Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-linux"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/641959547",
-      "id": 641959547,
-      "node_id": "RA_kwDOAOsFPM4mQ4Z7",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663964847",
+      "id": 663964847,
+      "node_id": "RA_kwDOAOsFPM4nk0yv",
       "name": "firebase-tools-macos",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 269793383,
-      "digest": "sha256:3cb15de0eeac47ca86ae909dad433a58a81df9d7a1854727a751eda88d7dbb14",
-      "download_count": 7923,
-      "created_at": "2026-10-14T23:05:57Z",
-      "updated_at": "2026-10-14T23:06:07Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.0/firebase-tools-macos"
+      "size": 267923574,
+      "digest": "sha256:d5cd12d6076cf1ddc82a66ae11640fbc5e94b903a454c3449ab5205895052df7",
+      "download_count": 631,
+      "created_at": "2026-10-21T22:25:21Z",
+      "updated_at": "2026-10-21T22:25:33Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-macos"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/641960036",
-      "id": 641960036,
-      "node_id": "RA_kwDOAOsFPM4mQ4hk",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663965423",
+      "id": 663965423,
+      "node_id": "RA_kwDOAOsFPM4nk07v",
       "name": "firebase-tools-win.exe",
       "label": "",
       "uploader": {
@@ -173,15 +173,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 255145758,
-      "digest": "sha256:919c874a22fabd89eef769a527e6cdcdef9a5015b7403d765ba1b4c18beea495",
-      "download_count": 559,
-      "created_at": "2026-10-14T23:06:13Z",
-      "updated_at": "2026-10-14T23:06:22Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.0/firebase-tools-win.exe"
+      "size": 253273324,
+      "digest": "sha256:bd7d07b38335a5498a32000d7bc5c47d2525793ad9f14e42420afa66c51d8384",
+      "download_count": 51,
+      "created_at": "2026-10-21T22:25:38Z",
+      "updated_at": "2026-10-21T22:25:50Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-win.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/firebase/firebase-tools/tarball/v15.34.0",
-  "zipball_url": "https://api.github.com/repos/firebase/firebase-tools/zipball/v15.34.0",
-  "body": "- Fixed an issue where hosting:clone failed to locate source sites in other projects. (#11247)\r\n- Updated Pub/Sub emulator to version 0.8.37.\r\n- Fixed an issue where analytics timeouts could mask command errors or cause successful commands to exit with an error. (#6989)\r\n- Fixed an issue where unhandled exceptions during Cloud Functions deployment could be silently ignored and exit with code 0 (#6989).\r\n- Added `crashlytics:heapdumps:{enable,disable,status}` commands to manage Crashlytics Android heap dump collection. (#11225)\r\n- Removed unused dependencies `proxy-agent`, `universal-analytics`, and `@apphosting/common`.\r\n- Fixed an issue where throttled task queues stopped processing remaining tasks when a task exhausted its retries or timed out (#6989, #11040).\r\n- Fixed a race condition in `SourceTokenScraper` that could cause concurrent function deployments to hang when refreshing an expired source token (#6989).\r\n- Fixed an issue where a Function Kit and a functions codebase sharing the same source directory failed `firebase.json` validation. (#11253)\r\n- Fixed an issue where Cloud Functions creation did not retry on HTTP 403 service account propagation errors. (#11251)\r\n- Updated Auth deployment to use existing apps from any platform before creating a default web app. (#11250)\r\n- No longer grant unecessary TRUNCATE privilege to writer roles in `dataconnect:sql:migrate`. (#11276)\r\n- Updated the Firebase SQL Connect local toolkit to v3.4.23, which includes the following changes:\r\n  - Updated the Golang dependency version to 1.26.9.\r\n  - Improved Native SQL query validation, wrapper aliasing, and line-comment handling to support the SQL editor in Firebase SQL."
+  "tarball_url": "https://api.github.com/repos/firebase/firebase-tools/tarball/v15.34.1",
+  "zipball_url": "https://api.github.com/repos/firebase/firebase-tools/zipball/v15.34.1",
+  "body": "- Ensured the Firebase Hosting API is enabled before deploying and running other Hosting commands.\r\n- Fixed an issue where empty inputs were accepted for Secret param values in Firebase Functions.\r\n- Fixed an issue where the Firebase MCP server always suggested `npx firebase-tools@latest` even when the `firebase` CLI was installed.\r\n- Fixed a Node.js `url.parse()` deprecation warning during `firebase login`.\r\n- Updated the Firebase SQL Connect local toolkit to v3.4.24, which includes some internal bug fixes.\r\n- Fixed 2nd Gen Auth Emulator CloudEvent payloads to conform to the Eventarc `google.events.firebase.auth.v2.AuthEventData` wire format (`metadata.createTime`, `providerData[].uid`, and removing `tenantId` from nested user data)."
 }
