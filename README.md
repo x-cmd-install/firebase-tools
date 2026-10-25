@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,480 · **Forks**: 1,273 · **Open issues**: 4,591 · **Contributors**: 417
+- **Stars**: 4,481 · **Forks**: 1,274 · **Open issues**: 4,592 · **Contributors**: 417
 
 ## Totals (cumulative)
 
-- **Releases**: 517 · **Merged PRs**: 5009 · **Open PRs**: 579 · **Closed issues**: 4094 · **Open issues**: 497 · **Commits**: 6934
+- **Releases**: 517 · **Merged PRs**: 5009 · **Open PRs**: 579 · **Closed issues**: 4094 · **Open issues**: 498 · **Commits**: 6934
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 5 | 83 | 61 | 17 | 24 | 123 |
-| last60d | 2026-08-25 | 12 | 191 | 81 | 37 | 40 | 227 |
-| 90d | 2026-07-26 | 22 | 275 | 102 | 54 | 46 | 320 |
-| last180d | 2026-04-27 | 36 | 461 | 190 | 120 | 70 | 532 |
-| 360d | 2025-10-29 | 65 | 877 | 340 | 320 | 105 | 969 |
-| last720d | 2024-11-03 | 100 | 1637 | 429 | 698 | 181 | 1793 |
+| 30d | 2026-09-25 | 5 | 75 | 58 | 15 | 24 | 123 |
+| last60d | 2026-08-26 | 12 | 188 | 81 | 37 | 41 | 227 |
+| 90d | 2026-07-27 | 22 | 267 | 101 | 54 | 47 | 320 |
+| last180d | 2026-04-28 | 36 | 458 | 190 | 119 | 71 | 532 |
+| 360d | 2025-10-30 | 65 | 872 | 339 | 319 | 106 | 969 |
+| last720d | 2024-11-04 | 100 | 1637 | 428 | 696 | 182 | 1793 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:23:44Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:27:37Z._
