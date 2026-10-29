@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/firebase/firebase-tools/releases/420108997",
-  "assets_url": "https://api.github.com/repos/firebase/firebase-tools/releases/420108997/assets",
-  "upload_url": "https://uploads.github.com/repos/firebase/firebase-tools/releases/420108997/assets{?name,label}",
-  "html_url": "https://github.com/firebase/firebase-tools/releases/tag/v15.34.1",
-  "id": 420108997,
+  "url": "https://api.github.com/repos/firebase/firebase-tools/releases/427293636",
+  "assets_url": "https://api.github.com/repos/firebase/firebase-tools/releases/427293636/assets",
+  "upload_url": "https://uploads.github.com/repos/firebase/firebase-tools/releases/427293636/assets{?name,label}",
+  "html_url": "https://github.com/firebase/firebase-tools/releases/tag/v15.34.2",
+  "id": 427293636,
   "author": {
     "login": "google-oss-bot",
     "id": 26440463,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAOsFPM4ZClrF",
-  "tag_name": "v15.34.1",
+  "node_id": "RE_kwDOAOsFPM4Zd_vE",
+  "tag_name": "v15.34.2",
   "target_commitish": "main",
-  "name": "v15.34.1",
+  "name": "v15.34.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-21T22:15:56Z",
-  "updated_at": "2026-10-22T14:51:32Z",
-  "published_at": "2026-10-22T14:51:32Z",
+  "created_at": "2026-10-28T23:15:29Z",
+  "updated_at": "2026-10-28T23:43:01Z",
+  "published_at": "2026-10-28T23:43:01Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663963659",
-      "id": 663963659,
-      "node_id": "RA_kwDOAOsFPM4nk0gL",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/686677818",
+      "id": 686677818,
+      "node_id": "RA_kwDOAOsFPM4o7d86",
       "name": "firebase-tools-instant-win.exe",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 253273301,
-      "digest": "sha256:5d3caa3ed841d346c404619e73f4dc2e6bdd94150d3dfc5c0a2de99bf7f7c34a",
-      "download_count": 2570,
-      "created_at": "2026-10-21T22:24:49Z",
-      "updated_at": "2026-10-21T22:24:59Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-instant-win.exe"
+      "size": 253162213,
+      "digest": "sha256:696b1d777be90abbd56d7618195ab6ba6ad60e67be4f06457014580664ad3eed",
+      "download_count": 93,
+      "created_at": "2026-10-28T23:24:06Z",
+      "updated_at": "2026-10-28T23:24:15Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-instant-win.exe"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663964291",
-      "id": 663964291,
-      "node_id": "RA_kwDOAOsFPM4nk0qD",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/686678282",
+      "id": 686678282,
+      "node_id": "RA_kwDOAOsFPM4o7eEK",
       "name": "firebase-tools-linux",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 265475086,
-      "digest": "sha256:39150511323536d08fa8604c232db10da2b2421ce2c36f3913d5650a6fbe6e58",
-      "download_count": 6984,
-      "created_at": "2026-10-21T22:25:05Z",
-      "updated_at": "2026-10-21T22:25:16Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-linux"
+      "size": 265364636,
+      "digest": "sha256:87d3b99dd2650cd8a0d5aca73fcc91ba7a14501381279f10c843a067851a9187",
+      "download_count": 246,
+      "created_at": "2026-10-28T23:24:20Z",
+      "updated_at": "2026-10-28T23:24:29Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-linux"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663964847",
-      "id": 663964847,
-      "node_id": "RA_kwDOAOsFPM4nk0yv",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/686678824",
+      "id": 686678824,
+      "node_id": "RA_kwDOAOsFPM4o7eMo",
       "name": "firebase-tools-macos",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 267923574,
-      "digest": "sha256:d5cd12d6076cf1ddc82a66ae11640fbc5e94b903a454c3449ab5205895052df7",
-      "download_count": 5395,
-      "created_at": "2026-10-21T22:25:21Z",
-      "updated_at": "2026-10-21T22:25:33Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-macos"
+      "size": 267813124,
+      "digest": "sha256:29e3ec3bf805620185c53968bb0e0ce936796f79356fcb85fab1066594b83085",
+      "download_count": 215,
+      "created_at": "2026-10-28T23:24:35Z",
+      "updated_at": "2026-10-28T23:24:45Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-macos"
     },
     {
-      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/663965423",
-      "id": 663965423,
-      "node_id": "RA_kwDOAOsFPM4nk07v",
+      "url": "https://api.github.com/repos/firebase/firebase-tools/releases/assets/686679399",
+      "id": 686679399,
+      "node_id": "RA_kwDOAOsFPM4o7eVn",
       "name": "firebase-tools-win.exe",
       "label": "",
       "uploader": {
@@ -173,15 +173,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 253273324,
-      "digest": "sha256:bd7d07b38335a5498a32000d7bc5c47d2525793ad9f14e42420afa66c51d8384",
-      "download_count": 470,
-      "created_at": "2026-10-21T22:25:38Z",
-      "updated_at": "2026-10-21T22:25:50Z",
-      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.1/firebase-tools-win.exe"
+      "size": 253162324,
+      "digest": "sha256:ce94c49acfb6349bddb6a79f3730e187d25ccc59daac42906d1c2c63243beebc",
+      "download_count": 12,
+      "created_at": "2026-10-28T23:24:51Z",
+      "updated_at": "2026-10-28T23:25:02Z",
+      "browser_download_url": "https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-win.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/firebase/firebase-tools/tarball/v15.34.1",
-  "zipball_url": "https://api.github.com/repos/firebase/firebase-tools/zipball/v15.34.1",
-  "body": "- Ensured the Firebase Hosting API is enabled before deploying and running other Hosting commands.\r\n- Fixed an issue where empty inputs were accepted for Secret param values in Firebase Functions.\r\n- Fixed an issue where the Firebase MCP server always suggested `npx firebase-tools@latest` even when the `firebase` CLI was installed.\r\n- Fixed a Node.js `url.parse()` deprecation warning during `firebase login`.\r\n- Updated the Firebase SQL Connect local toolkit to v3.4.24, which includes some internal bug fixes.\r\n- Fixed 2nd Gen Auth Emulator CloudEvent payloads to conform to the Eventarc `google.events.firebase.auth.v2.AuthEventData` wire format (`metadata.createTime`, `providerData[].uid`, and removing `tenantId` from nested user data)."
+  "tarball_url": "https://api.github.com/repos/firebase/firebase-tools/tarball/v15.34.2",
+  "zipball_url": "https://api.github.com/repos/firebase/firebase-tools/zipball/v15.34.2",
+  "body": "- Updated chokidar dependency to ^4.0.3 to remove vulnerable braces dependency (#11308).\r\n- Fixed an issue where the Firebase MCP server referred to `update_firebase_environment` instead of `firebase_update_environment`.\r\n- Updated the Firebase SQL Connect local toolkit to v3.4.25, which includes the following changes:\r\n  - Internal improvements and bug fixes.\r\n- Fixed CVE-2026-111181 by updating `body-parser` dependency.\r\n- Fixed the Firestore emulator exiting when it could not watch the rules file for changes. It now logs a warning instead. (#4298)"
 }
