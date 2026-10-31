@@ -1,3 +1,15 @@
+- repo: nix_stable_25_11
+  srcname: firebase-tools
+  visiblename: firebase-tools
+  version: 14.26.0
+  origversion: null
+  status: outdated
+  summary: Manage, and deploy your Firebase project from the command line
+  maintainers:
+    - me@momee.mt
+    - seclark@nextquestion.net
+  licenses:
+    - MIT
 - repo: aur
   srcname: firebase-tools
   binname: firebase-tools
@@ -25,9 +37,9 @@
 - repo: homebrew
   srcname: firebase-cli
   visiblename: firebase-cli
-  version: 15.34.1
+  version: 15.34.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Firebase command-line tools
 - repo: nix_stable_24_05
   srcname: firebase-tools
@@ -55,18 +67,6 @@
   srcname: firebase-tools
   visiblename: firebase-tools
   version: 14.3.0
-  origversion: null
-  status: outdated
-  summary: Manage, and deploy your Firebase project from the command line
-  maintainers:
-    - me@momee.mt
-    - seclark@nextquestion.net
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: firebase-tools
-  visiblename: firebase-tools
-  version: 14.26.0
   origversion: null
   status: outdated
   summary: Manage, and deploy your Firebase project from the command line
