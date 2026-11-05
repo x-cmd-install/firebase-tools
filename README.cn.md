@@ -14,15 +14,15 @@ x install firebase-tools
 
 ## 代码洞察
 
-合计: **387,877** 行代码（覆盖前 5 种语言、共 **1767** 个文件）。
+合计: **386,541** 行代码（覆盖前 5 种语言、共 **1765** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 256,980 | 21,267 | 29,814 | 1526 |
-| Json | 124,112 | 0 | 6 | 143 |
+| TypeScript | 257,286 | 21,387 | 29,884 | 1527 |
+| Json | 122,441 | 0 | 6 | 140 |
 | JavaScript | 2,005 | 805 | 329 | 40 |
 | Tsx | 1,757 | 32 | 120 | 28 |
-| Sh | 793 | 67 | 162 | 30 |
+| Sh | 822 | 68 | 165 | 30 |
 
 ## OpenSSF Scorecard 评分
 
@@ -41,45 +41,45 @@ x install firebase-tools
 
 ## 发布
 
-- **最新版本**: `v15.34.2` (2026-10-28)
-- **最近提交**: 2026-11-04
+- **最新版本**: `v15.35.0` (2026-11-04)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 4,487 · **Fork**: 1,280 · **开放 issue**: 4,598 · **贡献者**: 419
+- **Star**: 4,487 · **Fork**: 1,279 · **开放 issue**: 4,600 · **贡献者**: 420
 
 ## 累计统计
 
-- **发布数**: 518 · **已合并 PR**: 5042 · **开放 PR**: 608 · **已关闭 issue**: 4106 · **开放 issue**: 492 · **提交数**: 6969
+- **发布数**: 519 · **已合并 PR**: 5052 · **开放 PR**: 602 · **已关闭 issue**: 4110 · **开放 issue**: 490 · **提交数**: 6982
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 74 | 74 | 15 | 22 | 0 |
-| last60d | 2026-09-05 | 10 | 190 | 109 | 29 | 43 | 0 |
-| 90d | 2026-08-06 | 20 | 279 | 125 | 48 | 49 | 0 |
-| last180d | 2026-05-08 | 35 | 468 | 212 | 112 | 72 | 0 |
-| 360d | 2025-11-09 | 63 | 891 | 369 | 316 | 105 | 0 |
-| last720d | 2024-11-14 | 100 | 1650 | 455 | 690 | 179 | 1799 |
+| 30d | 2026-10-06 | 5 | 84 | 70 | 18 | 20 | 115 |
+| last60d | 2026-09-06 | 11 | 198 | 104 | 32 | 42 | 228 |
+| 90d | 2026-08-07 | 20 | 286 | 120 | 50 | 48 | 330 |
+| last180d | 2026-05-09 | 36 | 478 | 204 | 115 | 71 | 541 |
+| 360d | 2025-11-10 | 64 | 898 | 363 | 319 | 103 | 980 |
+| last720d | 2024-11-15 | 100 | 1657 | 448 | 693 | 178 | 1810 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-instant-win.exe) | 241.4 MiB | `other` |
-| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-linux) | 253.1 MiB | `other` |
-| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-macos) | 255.4 MiB | `native/darwin/x64` |
-| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.34.2/firebase-tools-win.exe) | 241.4 MiB | `other` |
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-instant-win.exe) | 242.7 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-linux) | 254.3 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-macos) | 256.6 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-win.exe) | 242.7 MiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/firebase-tools) 上共有 **11** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/firebase-tools) 上共有 **12** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `15.34.2` | ✅ latest |
+| Homebrew | `15.34.2` | ⚠️ outdated |
 | Nix unstable | `15.34.1` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -91,4 +91,4 @@ firebase-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:00:35Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:27:25Z._
