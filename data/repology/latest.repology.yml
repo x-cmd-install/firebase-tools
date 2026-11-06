@@ -104,22 +104,6 @@
   binnames:
     - firebase-tools
   visiblename: firebase-tools
-  version: 15.34.2
-  origversion: 15.34.2-1mamba
-  status: legacy
-  summary: Command-Line Interface for Firebase
-  maintainers:
-    - claude@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools
-- repo: openmamba
-  subrepo: devel-makedist
-  srcname: firebase-tools
-  binnames:
-    - firebase-tools
-  visiblename: firebase-tools
   version: 15.35.0
   origversion: 15.35.0-1mamba
   status: newest
