@@ -25,9 +25,9 @@
 - repo: homebrew
   srcname: firebase-cli
   visiblename: firebase-cli
-  version: 15.34.2
+  version: 15.35.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Firebase command-line tools
 - repo: nix_stable_24_05
   srcname: firebase-tools
