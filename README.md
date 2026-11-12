@@ -41,45 +41,45 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v15.35.0` (2026-11-04)
+- **Latest**: `v15.36.0` (2026-11-11)
 - **Last commit**: 2026-11-11
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,489 · **Forks**: 1,281 · **Open issues**: 4,609 · **Contributors**: 422
+- **Stars**: 4,490 · **Forks**: 1,282 · **Open issues**: 4,610 · **Contributors**: 422
 
 ## Totals (cumulative)
 
-- **Releases**: 519 · **Merged PRs**: 5075 · **Open PRs**: 594 · **Closed issues**: 4119 · **Open issues**: 490 · **Commits**: 7005
+- **Releases**: 520 · **Merged PRs**: 5075 · **Open PRs**: 597 · **Closed issues**: 4120 · **Open issues**: 490 · **Commits**: 7007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 4 | 92 | 63 | 21 | 21 | 98 |
-| last60d | 2026-09-12 | 10 | 203 | 92 | 35 | 37 | 227 |
-| 90d | 2026-08-13 | 19 | 294 | 106 | 56 | 47 | 338 |
-| last180d | 2026-05-15 | 35 | 490 | 190 | 114 | 68 | 550 |
-| 360d | 2025-11-16 | 62 | 914 | 353 | 321 | 104 | 986 |
-| last720d | 2024-11-21 | 100 | 1664 | 437 | 698 | 176 | 1816 |
+| 30d | 2026-10-13 | 5 | 87 | 66 | 22 | 21 | 100 |
+| last60d | 2026-09-13 | 11 | 201 | 95 | 36 | 37 | 229 |
+| 90d | 2026-08-14 | 18 | 289 | 109 | 56 | 47 | 340 |
+| last180d | 2026-05-16 | 36 | 490 | 193 | 115 | 68 | 552 |
+| 360d | 2025-11-17 | 63 | 910 | 356 | 321 | 103 | 988 |
+| last720d | 2024-11-22 | 100 | 1663 | 440 | 699 | 176 | 1808 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-instant-win.exe) | 242.7 MiB | `other` |
-| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-linux) | 254.3 MiB | `other` |
-| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-macos) | 256.6 MiB | `native/darwin/x64` |
-| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.35.0/firebase-tools-win.exe) | 242.7 MiB | `other` |
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-instant-win.exe) | 244.8 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-linux) | 256.5 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-macos) | 258.8 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-win.exe) | 244.8 MiB | `other` |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `15.35.0` | ✅ latest |
+| Homebrew | `15.35.0` | ⚠️ outdated |
 | Nix unstable | `15.34.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:55:47Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:26Z._
