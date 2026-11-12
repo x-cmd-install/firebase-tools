@@ -27,7 +27,7 @@
   visiblename: firebase-cli
   version: 15.35.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Firebase command-line tools
 - repo: nix_stable_24_05
   srcname: firebase-tools
@@ -106,7 +106,7 @@
   visiblename: firebase-tools
   version: 15.35.0
   origversion: 15.35.0-1mamba
-  status: newest
+  status: outdated
   summary: Command-Line Interface for Firebase
   maintainers:
     - claude@openmamba.org
@@ -118,7 +118,7 @@
   subrepo: main
   binname: firebase
   visiblename: firebase
-  version: 15.35.0
+  version: 15.36.0
   origversion: null
   status: newest
   licenses:
