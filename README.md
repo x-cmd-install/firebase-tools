@@ -14,13 +14,13 @@ x install firebase-tools
 
 ## Code insight
 
-Total: **390,539** lines of code across **1781** files in the top 5 languages.
+Total: **390,140** lines of code across **1781** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 260,200 | 21,537 | 30,258 | 1543 |
+| TypeScript | 259,802 | 21,499 | 30,188 | 1543 |
 | Json | 123,521 | 0 | 6 | 140 |
-| JavaScript | 2,005 | 805 | 329 | 40 |
+| JavaScript | 2,004 | 808 | 330 | 40 |
 | Tsx | 1,757 | 32 | 120 | 28 |
 | Sh | 826 | 68 | 165 | 30 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.36.0` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,490 · **Forks**: 1,282 · **Open issues**: 4,610 · **Contributors**: 422
+- **Stars**: 4,489 · **Forks**: 1,282 · **Open issues**: 4,611 · **Contributors**: 422
 
 ## Totals (cumulative)
 
-- **Releases**: 520 · **Merged PRs**: 5075 · **Open PRs**: 597 · **Closed issues**: 4120 · **Open issues**: 490 · **Commits**: 7007
+- **Releases**: 520 · **Merged PRs**: 5079 · **Open PRs**: 609 · **Closed issues**: 4120 · **Open issues**: 491 · **Commits**: 7011
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 5 | 87 | 66 | 22 | 21 | 100 |
-| last60d | 2026-09-13 | 11 | 201 | 95 | 36 | 37 | 229 |
-| 90d | 2026-08-14 | 18 | 289 | 109 | 56 | 47 | 340 |
-| last180d | 2026-05-16 | 36 | 490 | 193 | 115 | 68 | 552 |
-| 360d | 2025-11-17 | 63 | 910 | 356 | 321 | 103 | 988 |
-| last720d | 2024-11-22 | 100 | 1663 | 440 | 699 | 176 | 1808 |
+| 30d | 2026-10-14 | 5 | 85 | 77 | 19 | 19 | 104 |
+| last60d | 2026-09-14 | 11 | 205 | 107 | 36 | 38 | 233 |
+| 90d | 2026-08-15 | 17 | 291 | 121 | 55 | 48 | 344 |
+| last180d | 2026-05-17 | 36 | 493 | 205 | 114 | 69 | 556 |
+| 360d | 2025-11-18 | 63 | 912 | 367 | 320 | 104 | 992 |
+| last720d | 2024-11-23 | 100 | 1667 | 451 | 699 | 177 | 1811 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:26Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:24:08Z._
