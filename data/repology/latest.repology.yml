@@ -2,8 +2,8 @@
   srcname: firebase-tools
   binname: firebase-tools
   visiblename: firebase-tools
-  version: 15.34.0
-  origversion: 15.34.0-1
+  version: 15.36.0
+  origversion: 15.36.0-1
   status: outdated
   summary: The Firebase Command Line Tools
   maintainers:
@@ -14,8 +14,8 @@
   srcname: firebase-tools-bin
   binname: firebase-tools-bin
   visiblename: firebase-tools-bin
-  version: 15.34.2
-  origversion: 15.34.2-1
+  version: 15.35.0
+  origversion: 15.35.0-1
   status: outdated
   summary: The Firebase Command Line Tools (bundled official standalone binary)
   maintainers:
@@ -27,7 +27,7 @@
   visiblename: firebase-cli
   version: 15.36.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Firebase command-line tools
 - repo: nix_stable_24_05
   srcname: firebase-tools
@@ -106,7 +106,7 @@
   visiblename: firebase-tools
   version: 15.36.0
   origversion: 15.36.0-1mamba
-  status: newest
+  status: outdated
   summary: Command-Line Interface for Firebase
   maintainers:
     - claude@openmamba.org
@@ -118,7 +118,7 @@
   subrepo: main
   binname: firebase
   visiblename: firebase
-  version: 15.36.0
+  version: 15.37.0
   origversion: null
   status: newest
   licenses:
