@@ -14,12 +14,12 @@ x install firebase-tools
 
 ## Code insight
 
-Total: **390,987** lines of code across **1781** files in the top 5 languages.
+Total: **395,204** lines of code across **1794** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 260,603 | 21,542 | 30,300 | 1543 |
-| Json | 123,567 | 0 | 6 | 140 |
+| TypeScript | 263,166 | 21,602 | 30,640 | 1556 |
+| Json | 125,221 | 0 | 6 | 140 |
 | JavaScript | 2,004 | 808 | 330 | 40 |
 | Tsx | 1,757 | 32 | 120 | 28 |
 | Sh | 826 | 68 | 165 | 30 |
@@ -41,45 +41,45 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v15.36.0` (2026-11-11)
-- **Last commit**: 2026-11-16
+- **Latest**: `v15.37.0` (2026-11-19)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,488 · **Forks**: 1,286 · **Open issues**: 4,616 · **Contributors**: 422
+- **Stars**: 4,489 · **Forks**: 1,289 · **Open issues**: 4,623 · **Contributors**: 422
 
 ## Totals (cumulative)
 
-- **Releases**: 520 · **Merged PRs**: 5095 · **Open PRs**: 610 · **Closed issues**: 4121 · **Open issues**: 495 · **Commits**: 7027
+- **Releases**: 521 · **Merged PRs**: 5114 · **Open PRs**: 609 · **Closed issues**: 4127 · **Open issues**: 496 · **Commits**: 7048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 91 | 76 | 19 | 21 | 101 |
-| last60d | 2026-09-18 | 9 | 195 | 104 | 34 | 41 | 232 |
-| 90d | 2026-08-19 | 17 | 295 | 119 | 53 | 52 | 329 |
-| last180d | 2026-05-21 | 36 | 498 | 201 | 114 | 72 | 566 |
-| 360d | 2025-11-22 | 61 | 920 | 358 | 316 | 108 | 995 |
-| last720d | 2024-11-27 | 100 | 1679 | 452 | 696 | 181 | 1826 |
+| 30d | 2026-10-20 | 5 | 101 | 76 | 22 | 20 | 122 |
+| last60d | 2026-09-20 | 10 | 212 | 104 | 38 | 40 | 253 |
+| 90d | 2026-08-21 | 16 | 303 | 119 | 58 | 54 | 350 |
+| last180d | 2026-05-23 | 37 | 512 | 201 | 118 | 74 | 587 |
+| 360d | 2025-11-24 | 62 | 933 | 358 | 317 | 109 | 1016 |
+| last720d | 2024-11-29 | 100 | 1695 | 450 | 697 | 182 | 1847 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-instant-win.exe) | 244.8 MiB | `other` |
-| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-linux) | 256.5 MiB | `other` |
-| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-macos) | 258.8 MiB | `native/darwin/x64` |
-| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.36.0/firebase-tools-win.exe) | 244.8 MiB | `other` |
+| [firebase-tools-instant-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.37.0/firebase-tools-instant-win.exe) | 245.0 MiB | `other` |
+| [firebase-tools-linux](https://github.com/firebase/firebase-tools/releases/download/v15.37.0/firebase-tools-linux) | 256.6 MiB | `other` |
+| [firebase-tools-macos](https://github.com/firebase/firebase-tools/releases/download/v15.37.0/firebase-tools-macos) | 259.0 MiB | `native/darwin/x64` |
+| [firebase-tools-win.exe](https://github.com/firebase/firebase-tools/releases/download/v15.37.0/firebase-tools-win.exe) | 245.0 MiB | `other` |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `15.36.0` | ✅ latest |
+| Homebrew | `15.36.0` | ⚠️ outdated |
 | Nix unstable | `15.34.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:44:03Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:10:02Z._
