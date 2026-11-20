@@ -25,9 +25,9 @@
 - repo: homebrew
   srcname: firebase-cli
   visiblename: firebase-cli
-  version: 15.36.0
+  version: 15.37.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Firebase command-line tools
 - repo: nix_stable_24_05
   srcname: firebase-tools
@@ -104,9 +104,9 @@
   binnames:
     - firebase-tools
   visiblename: firebase-tools
-  version: 15.36.0
-  origversion: 15.36.0-1mamba
-  status: outdated
+  version: 15.37.0
+  origversion: 15.37.0-1mamba
+  status: newest
   summary: Command-Line Interface for Firebase
   maintainers:
     - claude@openmamba.org
