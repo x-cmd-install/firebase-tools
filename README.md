@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,489 · **Forks**: 1,290 · **Open issues**: 4,626 · **Contributors**: 422
+- **Stars**: 4,490 · **Forks**: 1,290 · **Open issues**: 4,626 · **Contributors**: 422
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 5120 · **Open PRs**: 606 · **Closed issues**: 4128 · **Open issues**: 498 · **Commits**: 7054
+- **Releases**: 521 · **Merged PRs**: 5120 · **Open PRs**: 607 · **Closed issues**: 4128 · **Open issues**: 498 · **Commits**: 7054
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 5 | 100 | 73 | 17 | 21 | 128 |
-| last60d | 2026-09-22 | 10 | 205 | 101 | 38 | 42 | 259 |
-| 90d | 2026-08-23 | 16 | 309 | 117 | 59 | 55 | 356 |
-| last180d | 2026-05-25 | 37 | 518 | 198 | 119 | 76 | 593 |
-| 360d | 2025-11-26 | 62 | 932 | 348 | 316 | 111 | 1022 |
-| last720d | 2024-12-01 | 100 | 1701 | 447 | 697 | 184 | 1853 |
+| 30d | 2026-10-23 | 4 | 80 | 71 | 16 | 20 | 128 |
+| last60d | 2026-09-23 | 10 | 192 | 102 | 38 | 42 | 259 |
+| 90d | 2026-08-24 | 16 | 304 | 118 | 59 | 55 | 356 |
+| last180d | 2026-05-26 | 37 | 515 | 197 | 119 | 75 | 593 |
+| 360d | 2025-11-27 | 62 | 931 | 348 | 315 | 111 | 1022 |
+| last720d | 2024-12-02 | 100 | 1698 | 448 | 696 | 184 | 1853 |
 
 ## Release assets
 
@@ -75,12 +75,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/firebase-tools). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `15.37.0` | ✅ latest |
-| Nix unstable | `15.34.1` | ⚠️ outdated |
+| Nix unstable | `15.37.0` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:54:55Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:29:44Z._
