@@ -90,9 +90,9 @@
 - repo: nix_unstable
   srcname: firebase-tools
   visiblename: firebase-tools
-  version: 15.34.1
+  version: 15.37.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Manage, and deploy your Firebase project from the command line
   maintainers:
     - seclark@nextquestion.net
