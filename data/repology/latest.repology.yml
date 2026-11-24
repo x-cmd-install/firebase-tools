@@ -14,8 +14,8 @@
   srcname: firebase-tools-bin
   binname: firebase-tools-bin
   visiblename: firebase-tools-bin
-  version: 15.35.0
-  origversion: 15.35.0-1
+  version: 15.36.0
+  origversion: 15.36.0-1
   status: outdated
   summary: The Firebase Command Line Tools (bundled official standalone binary)
   maintainers:
