@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v15.37.0` (2026-11-19)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 4,492 · **Forks**: 1,289 · **Open issues**: 4,628 · **Contributors**: 422
+- **Stars**: 4,492 · **Forks**: 1,289 · **Open issues**: 4,629 · **Contributors**: 422
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 5123 · **Open PRs**: 606 · **Closed issues**: 4130 · **Open issues**: 498 · **Commits**: 7057
+- **Releases**: 521 · **Merged PRs**: 5125 · **Open PRs**: 610 · **Closed issues**: 4131 · **Open issues**: 498 · **Commits**: 7059
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 83 | 71 | 18 | 19 | 106 |
-| last60d | 2026-09-25 | 9 | 184 | 100 | 37 | 39 | 228 |
-| 90d | 2026-08-26 | 16 | 300 | 118 | 61 | 54 | 338 |
-| last180d | 2026-05-28 | 36 | 509 | 194 | 121 | 74 | 573 |
-| 360d | 2025-11-29 | 62 | 933 | 347 | 316 | 111 | 1011 |
-| last720d | 2024-12-04 | 100 | 1690 | 447 | 698 | 184 | 1848 |
+| 30d | 2026-10-26 | 4 | 83 | 75 | 18 | 20 | 108 |
+| last60d | 2026-09-26 | 9 | 186 | 104 | 37 | 40 | 230 |
+| 90d | 2026-08-27 | 15 | 300 | 122 | 60 | 55 | 340 |
+| last180d | 2026-05-29 | 36 | 508 | 198 | 120 | 75 | 575 |
+| 360d | 2025-11-30 | 62 | 935 | 351 | 316 | 112 | 1013 |
+| last720d | 2024-12-05 | 100 | 1690 | 451 | 698 | 184 | 1836 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:43:57Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:56Z._
