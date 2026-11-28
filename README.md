@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,494 · **Forks**: 1,289 · **Open issues**: 4,634 · **Contributors**: 424
+- **Stars**: 4,493 · **Forks**: 1,289 · **Open issues**: 4,634 · **Contributors**: 424
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 5127 · **Open PRs**: 610 · **Closed issues**: 4133 · **Open issues**: 501 · **Commits**: 7061
+- **Releases**: 521 · **Merged PRs**: 5127 · **Open PRs**: 613 · **Closed issues**: 4133 · **Open issues**: 501 · **Commits**: 7061
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 4 | 78 | 72 | 20 | 23 | 0 |
-| last60d | 2026-09-28 | 9 | 185 | 104 | 39 | 43 | 0 |
-| 90d | 2026-08-29 | 14 | 299 | 122 | 58 | 57 | 0 |
-| last180d | 2026-05-31 | 36 | 510 | 198 | 121 | 78 | 0 |
-| 360d | 2025-12-02 | 62 | 932 | 347 | 317 | 115 | 0 |
-| last720d | 2024-12-07 | 100 | 1690 | 450 | 700 | 187 | 1834 |
+| 30d | 2026-10-29 | 3 | 73 | 72 | 19 | 22 | 110 |
+| last60d | 2026-09-29 | 8 | 172 | 105 | 37 | 43 | 232 |
+| 90d | 2026-08-30 | 14 | 299 | 125 | 58 | 57 | 342 |
+| last180d | 2026-06-01 | 36 | 509 | 201 | 121 | 78 | 577 |
+| 360d | 2025-12-03 | 62 | 927 | 350 | 312 | 115 | 1015 |
+| last720d | 2024-12-08 | 100 | 1690 | 453 | 699 | 187 | 1833 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for firebase-tools lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:05:54Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:32:26Z._
